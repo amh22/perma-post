@@ -3,6 +3,7 @@
     <img alt="Gatsby" src="https://www.arweave.org/nav-logo.svg" width="200" />
   </a>
 </p>
+
 <h1 align="center">
   Perma Post is a Permaweb App built with Arweave + React
 </h1>
@@ -21,16 +22,6 @@
   </a>
 </p>
 &nbsp;
-<h4 align="left">
-  This app has been deployed permantly to Arweave. You can view it by clicking the link below:
-</h4>
-&nbsp;
-<p align="left">
-  <a href="https://arwiki.wiki/#/en/creating-a-dapp">
-    https://.....
-  </a>
-</p>
-&nbsp;
 
 ### 🚀 Quick start
 
@@ -39,7 +30,7 @@ Follow the steps below to deploy this app:
 1.  **Clone this repo.**
 
     ```shell
-    git clone https://github.com/DanMacDonald/public-square-app.git
+    git clone https://github.com/amh22/perma-post.git
     ```
 
 2.  **Change into the new directory.**
