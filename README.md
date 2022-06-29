@@ -1,12 +1,16 @@
+&nbsp;
+
 <p align="center">
   <a href="https://www.arweave.org/">
-    <img alt="Gatsby" src="https://www.arweave.org/nav-logo.svg" width="200" />
+    <img alt="Arweave" src="https://www.arweave.org/footer-logo.svg" width="200" />
   </a>
 </p>
+&nbsp;
 
 <h1 align="center">
   Perma Post is a Permaweb App built with Arweave + React
 </h1>
+&nbsp;
 
 <h3 align="center">
   It's a decentralised Twitter-like application deployed permanently on Arweave.
@@ -18,7 +22,18 @@
 &nbsp;
 <p align="left">
   <a href="https://arwiki.wiki/#/en/creating-a-dapp">
-    Creating a Permaweb App with Arweave + React
+    Creating a Permaweb App with Arweave + React Tutorial
+  </a>
+</p>
+&nbsp;
+
+<h4 align="left">
+  I have deployed a permanent version of this app to Arweave. You can view it by clicking the link below:
+</h4>
+&nbsp;
+<p align="left">
+  <a href="https://arweave.net/ZS8YBW5wtamXYqF-4oNWdOm810mvwegKfHOG9B9CJ1M">
+    https://arweave.net/ZS8YBW5wtamXYqF-4oNWdOm810mvwegKfHOG9B9CJ1M
   </a>
 </p>
 &nbsp;
@@ -65,3 +80,17 @@ You can view posts, however if you want to create a post and store it on Arweave
 
 - [ArConnect](https://arconnect.io/)
 - [arweave.app](https://arweave.app/)
+
+&nbsp;
+
+### Deployment to Arweave:
+
+To deploy your own versiom of this app, please see the Arweave tutorial:
+
+&nbsp;
+
+<p align="left">
+  <a href="https://arwiki.wiki/#/en/creating-a-dapp">
+    Creating a Permaweb App with Arweave + React Tutorial
+  </a>
+</p>
